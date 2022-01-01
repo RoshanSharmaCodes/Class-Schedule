@@ -1,0 +1,18 @@
+body{
+	display: flex;
+	justify-content: center;
+	margin-top: 80px;
+	background: lightblue;
+}
+
+.table{
+	border: 2px solid black;
+	width: 700px;
+	height: 600px;
+	text-align: center;
+}
+
+tr{
+	align-items: center;
+	align-content: center;
+}
